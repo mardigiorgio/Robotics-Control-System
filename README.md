@@ -38,5 +38,6 @@ Key control system methods:
 The framework demonstrates advanced robotics concepts including closed-loop control, sensor fusion, and autonomous behavior selection through an interactive touchscreen interface.
 
 ## License
-This project is released as open source for educational use.
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
